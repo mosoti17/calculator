@@ -1,0 +1,36 @@
+#initially-showing{
+  display: none;
+}
+#java-showing{
+  display: none;
+}
+#operators-showing{
+  display: none;
+}
+#function-showing{
+  display: none;
+}
+#string-showing{
+  display: none;
+}
+#method-showing{
+  display: none;
+}
+.clickable {
+ cursor: pointer;
+ color: #0088cc;
+}
+.clickable:hover {
+text-decoration: underline;
+}
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+background-color: yellow;
+}
+
+.red-background {
+background-color: red;
+}
